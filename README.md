@@ -12,7 +12,7 @@
 - [Github:// polaris000](https://github.com/polaris000)  
 - [LinkedIn:// polaris000](https://www.linkedin.com/in/polaris000)  
 - [Medium:// @polaris000](https://polaris000.medium.com/)  
-- [Twitter:// @polaris000\_twi](https://twitter.com/polaris000_twi)    
+- [Twitter:// @polaris000\_soc](https://twitter.com/polaris000_soc)    
   
 <!--
 **Polaris000/Polaris000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
