@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Aniruddha
+
+- Senior undergrad at BITS Pilani, Pilani campus, studying Computer Science. At the moment, I'm interning at Tekion, a startup based in California.
+- Code in Python, Java, C and C++.
+- Dabble in machine learning, using python libraries like numpy, pandas, pytorch and sklearn.
+- Blog sporadically at Medium.com, where my articles are published in Medium's top datascience publication, TowardsDataScience.
+
+
+
 
 <!--
 **Polaris000/Polaris000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
