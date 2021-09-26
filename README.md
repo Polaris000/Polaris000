@@ -1,11 +1,10 @@
 ### Hi, I'm Aniruddha
 
 #### About
-- Senior undergrad at BITS Pilani, Pilani campus, studying Computer Science. 
-- Interning at [Tekion](https://tekion.com/).
+- B.E Computer Science with a minor in Data Science | BITS Pilani, Pilani campus '21
+- Working as an Associate Data Scientist at [Tekion](https://tekion.com/).
 - Code in Python, Java, C and C++.
-- Dabble in machine learning, using python libraries like numpy, pandas, pytorch and sklearn.
-- Blog sporadically at [Medium.com](https://polaris000.medium.com/), where my articles are published in Medium's top datascience publication, TowardsDataScience.
+- Blog sporadically at [Medium.com](https://polaris000.medium.com/), where my articles are published in Medium's top datascience publication, TowardsDataScience and other top publications, like Better Programming.
 
 #### Contact
 - [Website](https://polaris000.github.io)  
@@ -14,17 +13,3 @@
 - [Medium:// @polaris000](https://polaris000.medium.com/)  
 - [Twitter:// @polaris000\_soc](https://twitter.com/polaris000_soc)    
   
-<!--
-**Polaris000/Polaris000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
