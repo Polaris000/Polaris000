@@ -2,7 +2,7 @@
 
 #### About
 - B.E Computer Science with a minor in Data Science | BITS Pilani, Pilani campus '21
-- Working as an Associate Data Scientist at [Tekion](https://tekion.com/).
+- Associate Data Scientist at [Tekion](https://tekion.com/).
 - Code in Python, Java, C and C++.
 - Blog sporadically at [Medium.com](https://polaris000.medium.com/), where my articles are published in Medium's top datascience publication, TowardsDataScience and other top publications, like Better Programming.
 
