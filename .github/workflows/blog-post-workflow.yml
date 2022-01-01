@@ -16,3 +16,4 @@ jobs:
         with:
           feed_list: "https://polaris000.medium.com/feed"
           template: "<tr><td><a href=$url>$title</a></td><td>$date</td><td>$categories</td></tr>"
+          date_format: "mmmm, yyyy"
