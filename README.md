@@ -6,13 +6,7 @@
 - Blog sporadically at [Medium.com](https://polaris000.medium.com/), where my articles are published in Medium's top datascience publication, TowardsDataScience and other top publications, like Better Programming.
 
 #### Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Handling chatbot failure gracefully](https://towardsdatascience.com/handling-chatbot-failure-gracefully-466f0fb1dcc5?source=rss-dda13b3bf503------2)
-- [Evaluating Multi-label Classifiers](https://towardsdatascience.com/evaluating-multi-label-classifiers-a31be83da6ea?source=rss-dda13b3bf503------2)
-- [Are Slots and Entities the same?](https://towardsdatascience.com/are-slots-and-entities-the-same-f98a38ac328d?source=rss-dda13b3bf503------2)
-- [Building a Chatbot with Rasa](https://towardsdatascience.com/building-a-chatbot-with-rasa-3f03ecc5b324?source=rss-dda13b3bf503------2)
-- [Lessons from Undergrad](https://byrslf.co/lessons-from-undergrad-42eeb137c0fb?source=rss-dda13b3bf503------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>[Handling chatbot failure gracefully](https://towardsdatascience.com/handling-chatbot-failure-gracefully-466f0fb1dcc5?source=rss-dda13b3bf503------2)</td><td>Wed Dec 22 2021 1:23 PM</td><td>chatbots, machine-learning, rasa, nlp, tutorial</td></tr><tr><td>[Evaluating Multi-label Classifiers](https://towardsdatascience.com/evaluating-multi-label-classifiers-a31be83da6ea?source=rss-dda13b3bf503------2)</td><td>Mon Nov 01 2021 8:28 PM</td><td>deep-learning, python, machine-learning, data-science, tutorial</td></tr><tr><td>[Are Slots and Entities the same?](https://towardsdatascience.com/are-slots-and-entities-the-same-f98a38ac328d?source=rss-dda13b3bf503------2)</td><td>Mon Oct 04 2021 7:27 PM</td><td>rasa, tutorial, machine-learning, chatbots, data-science</td></tr><tr><td>[Building a Chatbot with Rasa](https://towardsdatascience.com/building-a-chatbot-with-rasa-3f03ecc5b324?source=rss-dda13b3bf503------2)</td><td>Sun Sep 19 2021 5:03 PM</td><td>chatbots, rasa, machine-learning, tutorial, data-science</td></tr><tr><td>[Lessons from Undergrad](https://byrslf.co/lessons-from-undergrad-42eeb137c0fb?source=rss-dda13b3bf503------2)</td><td>Sat Aug 21 2021 8:08 AM</td><td>beyourself, motivation, mindset, college, growth</td></tr><!-- BLOG-POST-LIST:END -->
 
 #### Contact
 [<img align="left" alt="website" src="https://img.shields.io/badge/Website-orange?style=for-the-badge" />](https://polaris000.github.io)
