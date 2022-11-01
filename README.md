@@ -1,8 +1,8 @@
 ### Hi, I'm Aniruddha.
 
 #### About
+- Data Scientist at [Tekion](https://tekion.com/).
 - B.E Computer Science with a minor in Data Science | BITS Pilani, Pilani campus '21
-- Associate Data Scientist at [Tekion](https://tekion.com/).
 - Blog sporadically at [Medium.com](https://polaris000.medium.com/), where my articles are published in Medium's top datascience publication, TowardsDataScience and other top publications, like Better Programming.
 
 #### Recent Blog Posts
