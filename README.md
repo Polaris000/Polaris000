@@ -1,9 +1,10 @@
 ### Hi, I'm Aniruddha.
 
 #### About
-- Data Scientist at [Tekion](https://tekion.com/).
+- Data Scientist at [Tesla](https://tesla.com/).
+- Masters in CS at NYU
 - B.E Computer Science with a minor in Data Science | BITS Pilani, Pilani campus '21
-- Blog sporadically at [Medium.com](https://polaris000.medium.com/), where my articles are published in Medium's top datascience publication, TowardsDataScience and other top publications, like Better Programming.
+- Blog sporadically at [towardsdatascience.com](https://towardsdatascience.com/author/polaris000/) no math and machine learning.
 
 #### Recent Blog Posts
 <table>
